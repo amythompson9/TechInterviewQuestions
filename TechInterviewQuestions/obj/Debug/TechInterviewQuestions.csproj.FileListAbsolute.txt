@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TechInterviewQuestions\TechInterviewQuestions\bin\Debug\TechInterviewQuestions.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TechInterviewQuestions\TechInterviewQuestions\obj\Debug\TechInterviewQuestions.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TechInterviewQuestions\TechInterviewQuestions\bin\Debug\TechInterviewQuestions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TechInterviewQuestions\TechInterviewQuestions\bin\Debug\TechInterviewQuestions.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TechInterviewQuestions\TechInterviewQuestions\obj\Debug\TechInterviewQuestions.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TechInterviewQuestions\TechInterviewQuestions\obj\Debug\TechInterviewQuestions.pdb
